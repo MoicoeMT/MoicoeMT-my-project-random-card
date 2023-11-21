@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#carta {
+  box-shadow: 4px 4px 4px 3px rgba(0, 0, 0, 0.2);
+}
+#titulo {
+  font-size: 150px;
+  font-family: "Gideon Roman", serif;
+}
